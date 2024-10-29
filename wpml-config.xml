@@ -1,0 +1,15 @@
+<wpml-config>
+	<admin-texts>
+		<key name="awwlm_button_settings">
+			<key name="add_to_wishlist_text" />
+			<key name="added_to_wishlist_text" />
+			<key name="browse_wishlist_text" />
+			<key name="remove_wishlist_text" />
+			<key name="exists_wishlist_text" />
+		</key>		
+		<key name="awwlm_page_settings">
+			<key name="def_wishlist_name" />
+			<key name="def_add_cart_text" />
+		</key>
+	</admin-texts>
+</wpml-config>
